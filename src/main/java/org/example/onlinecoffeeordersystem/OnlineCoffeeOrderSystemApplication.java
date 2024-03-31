@@ -10,4 +10,6 @@ public class OnlineCoffeeOrderSystemApplication {
         SpringApplication.run(OnlineCoffeeOrderSystemApplication.class, args);
     }
 
+
+    //시작하자
 }
