@@ -9,7 +9,3 @@ public class OnlineCoffeeOrderSystemApplication {
     public static void main(String[] args) {
         SpringApplication.run(OnlineCoffeeOrderSystemApplication.class, args);
     }
-
-
-    //시작하자
-}
